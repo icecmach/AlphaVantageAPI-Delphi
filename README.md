@@ -22,4 +22,4 @@ end;
 Pull requests are welcome.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[The Unlicense](https://choosealicense.com/licenses/unlicense/)
