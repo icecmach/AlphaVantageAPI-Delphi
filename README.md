@@ -17,9 +17,3 @@ begin
   FreeAndNil(Stock);
 end;
 ```
-
-## Contributing
-Pull requests are welcome.
-
-## License
-[The Unlicense](https://choosealicense.com/licenses/unlicense/)
